@@ -1,0 +1,34 @@
+body {
+    font-size: 14px;
+   
+}
+.blog-masthead{
+    background: #b34848;
+}
+h1,h2,h3,h4{
+    color: #b34848 
+}
+h1 a,h2 a,h3 a{
+    color: #b34848;
+}
+
+.list-unstyled {
+    display: block;
+    color: #b34848;
+    
+}
+.input-comment{
+    color: #b34848;
+}
+.form textarea{
+    width: 100% ;
+    height: 100px;
+}
+.form input{
+    display: block;
+    margin:20px 0px 20px 0px;
+}
+ 
+h1 a:hover {
+    color: #B34848;
+  }
